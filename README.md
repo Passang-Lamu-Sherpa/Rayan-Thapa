@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pravakar
+- 👋 Hi, I’m web dev mern stack 
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning ST
 - 💞️ I’m looking to collaborate on new teck ideas
